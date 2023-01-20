@@ -1,5 +1,3 @@
 {
-  "testFiles": "**/*.feature",
-  "video": false,
-  "screenshotOnRunFailure": false
-}
+    "testFiles": "**/*.feature"
+  }
